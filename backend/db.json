@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "name": "máy tính rẻ quá",
+      "image": "https://tinhocpnn.com/wp-content/uploads/2023/08/May-tinh-de-ban-Dell-tron-bo-i5-gen-10-man-22-inch-FHD-gia-re.webp",
+      "price": "23",
+      "description": "bán đắt",
+      "id": 4
+    },
+    {
+      "name": "Giày nam",
+      "image": "https://png.pngtree.com/png-vector/20201128/ourlarge/pngtree-casual-shoes-png-image_2394294.jpg",
+      "price": "1",
+      "description": "Rất rẻ",
+      "id": 5
+    },
+    {
+      "name": "Giày nữ",
+      "image": "https://png.pngtree.com/png-vector/20201128/ourlarge/pngtree-casual-shoes-png-image_2394294.jpg",
+      "price": "100",
+      "description": "giày đẹp",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "email": "thangle12112005@gmail.com",
+      "password": "$2a$10$huyQbBPy4/5efFMKY2rStuaR196E8aO/NbExiUzl.a0GQRIy/8wlK",
+      "name": "Lê Văn Thắng",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "email": "anhthanhducanh@gmail.com",
+      "password": "$2a$10$.QoMLVupUniuffJsJX3RNuhouXNdw0ReG.lIkZZUT.WarGpxwO6wm",
+      "name": "Lê Trà My",
+      "role": "user",
+      "id": 2
+    }
+  ]
+}
